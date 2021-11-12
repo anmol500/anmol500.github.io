@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/service2.png": "01fd40b897f1362ead2e7e17abf3082e",
 "assets/assets/service3.png": "38c104b61365562db19466db2fa8fede",
 "assets/assets/service4.png": "ef2b9d93dc33b4df6bbdbbb4be63f660",
+"assets/assets/serviceHero.png": "317433f0d5b6456cba1dd2f0b815b591",
 "assets/assets/spa.png": "257906a7dfdf488a1510aa75e8769542",
 "assets/FontManifest.json": "2d21e1730f5ec7435f6c2d1e0885e4a0",
 "assets/fonts/AlexBrush-Regular.ttf": "f1b1c5df2c848b6545a22cdd9d5cc167",
@@ -34,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9d2e88a5dd6a23e31b0130c967843cc7",
-"/": "9d2e88a5dd6a23e31b0130c967843cc7",
-"main.dart.js": "3e9142c60a219aac1442b75f9d350b76",
+"index.html": "02c7815b12ea6eda8ccf6921ff447fd5",
+"/": "02c7815b12ea6eda8ccf6921ff447fd5",
+"main.dart.js": "90e729e231dea0167016c13ed551b6bc",
 "manifest.json": "1c09b9c603040ad549f040a44be5d077",
 "version.json": "99ee2f3fdfe1ed394e7582cc89704750"
 };
