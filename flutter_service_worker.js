@@ -3,13 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5a667e99992c74a3bd02df9a3724eb75",
+  "assets/AssetManifest.json": "85887464ce2502405515a6ef008b7996",
 "assets/assets/bothArrow.png": "36a0191a2d49398a3c1d0fc891a63723",
 "assets/assets/counter.png": "5e81d54b53807f57f506760e7ca2717f",
 "assets/assets/education.png": "004dbcfb5fcdbd18cfd5203ce82b20a7",
 "assets/assets/footer.png": "9d919d2bd67c2e9cce39df0e5d1c6405",
 "assets/assets/gradian.png": "cceb3eb93604aaebe0bc53b40e8900bc",
 "assets/assets/heroLady.png": "ef8f4bfd192f55239f39ab852658cb6d",
+"assets/assets/l1.png": "ae06f6dc73a9614308456d84fe7c9df4",
+"assets/assets/l2.png": "3a5dcad9eafd94c7351a6828cb13f868",
+"assets/assets/l3.png": "6d0b2b16327f23fe580dcd4877604ab2",
+"assets/assets/l4.png": "f0de6fb7b5d834c1c656aa383a2ad1dd",
 "assets/assets/lady1.png": "30a7ec37868ea01cc28424893487bbbd",
 "assets/assets/lady2.png": "ac2e8b05ed99d7f05a5956e33ca0ffc4",
 "assets/assets/lady3.png": "1ca4184075b2f955a1e59b46b27352f1",
@@ -45,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d96a83f789e4817525903086d6391b60",
-"/": "d96a83f789e4817525903086d6391b60",
-"main.dart.js": "8bde93d82cd9530971c74775d90f52ea",
+"index.html": "49b40936a1c9ab700842894ed38740f7",
+"/": "49b40936a1c9ab700842894ed38740f7",
+"main.dart.js": "4f6af840f2216ceba69c24ee562c3f4c",
 "manifest.json": "1c09b9c603040ad549f040a44be5d077",
 "version.json": "99ee2f3fdfe1ed394e7582cc89704750"
 };
